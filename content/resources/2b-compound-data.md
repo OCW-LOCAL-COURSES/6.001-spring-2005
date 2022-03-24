@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-file: null
 learning_resource_types:
 - Lecture Videos
 optional_tab_title: ''

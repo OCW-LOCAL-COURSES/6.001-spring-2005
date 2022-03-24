@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the code of program to be used for project 4.
-file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/75db7b6eaef65013f78311a722b1e73f_objsys.scm
+file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/75db7b6eaef65013f78311a722b1e73f_objsys.scm
 file_type: text/plain
 learning_resource_types:
 - Projects
