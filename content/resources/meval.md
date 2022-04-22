@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the code of program to be used for project 5.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/bde25b7926b1ab25a9901de4abb0407c_meval.scm
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/bde25b7926b1ab25a9901de4abb0407c_meval.scm
 file_type: text/plain
 learning_resource_types:
 - Projects

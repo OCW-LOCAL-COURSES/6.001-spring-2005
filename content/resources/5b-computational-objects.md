@@ -1,6 +1,8 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
+file: null
 learning_resource_types:
 - Lecture Videos
 optional_tab_title: ''
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '5B: Computational Objects'
 uid: db6c4639-d0f0-726a-0831-3f8ef7c1b992
 video_files:

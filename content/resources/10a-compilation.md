@@ -1,6 +1,8 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
+file: null
 learning_resource_types:
 - Lecture Videos
 optional_tab_title: ''
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '10A: Compilation'
 uid: d2102ce5-5255-210d-3358-02fb34d064dd
 video_files:

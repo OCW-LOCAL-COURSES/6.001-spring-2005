@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains discussion about the idea of symbols, and combining
   them with lots of different data structures, to create tagged data structures.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/8eb0ac1645c6db97401f9bf8272f536b_lecture10webhan.pdf
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/8eb0ac1645c6db97401f9bf8272f536b_lecture10webhan.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,6 +1,8 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
+file: null
 learning_resource_types:
 - Lecture Videos
 optional_tab_title: ''
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '8A: Logic Programming, Part 1'
 uid: 22fc2a7a-27b6-0e2f-2241-57aa5c7779e0
 video_files:

@@ -1,6 +1,8 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
+file: null
 learning_resource_types:
 - Lecture Videos
 optional_tab_title: ''
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '3B: Symbolic Differentiation; Quotation'
 uid: fdf62f2c-f463-a056-b918-ba7f340743f3
 video_files:

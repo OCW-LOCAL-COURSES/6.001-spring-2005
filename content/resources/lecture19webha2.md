@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file explains environment as an explicit parameter.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/bbcae5e73a9c85e3b628ac81afdbb480_lecture19webha2.pdf
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/bbcae5e73a9c85e3b628ac81afdbb480_lecture19webha2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

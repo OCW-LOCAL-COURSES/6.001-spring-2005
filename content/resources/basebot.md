@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the code of program to be used for project 1.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/f7ee0e119d4c2da5dff9ad957bd2f51a_basebot.scm
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/f7ee0e119d4c2da5dff9ad957bd2f51a_basebot.scm
 file_type: text/plain
 learning_resource_types:
 - Projects

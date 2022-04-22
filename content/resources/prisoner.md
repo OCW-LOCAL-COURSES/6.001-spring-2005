@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the code of program to be used for project 2.
-file: /courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/b2898ce71fef4029fd80158a0eda884d_prisoner.scm
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/b2898ce71fef4029fd80158a0eda884d_prisoner.scm
 file_type: text/plain
 learning_resource_types:
 - Projects
