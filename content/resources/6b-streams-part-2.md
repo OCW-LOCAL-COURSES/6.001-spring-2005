@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: qp05AtXbOP0
 ---
 
+
+
 **Topics covered:** Streams, Part 2
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

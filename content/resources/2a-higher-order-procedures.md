@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: eJeMOEiHv8c
 ---
 
+
+
 **Topics covered:** Higher-order Procedures
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

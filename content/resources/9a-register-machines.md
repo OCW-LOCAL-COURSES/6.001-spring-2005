@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: cIc8ZBMcqAc
 ---
 
+
+
 **Topics covered:** Register Machines
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

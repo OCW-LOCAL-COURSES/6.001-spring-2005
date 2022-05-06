@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: yedzRWhi-9E
 ---
 
+
+
 **Topics covered:** Computational Objects
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

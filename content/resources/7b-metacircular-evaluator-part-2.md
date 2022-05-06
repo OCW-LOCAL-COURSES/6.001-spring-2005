@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: QVEOq5k6Xi0
 ---
 
+
+
 **Topics covered:** Metacircular Evaluator, Part 2
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

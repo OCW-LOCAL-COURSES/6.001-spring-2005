@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: OscT4N2qq7o
 ---
 
+
+
 **Topics covered**: Generic Operators
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

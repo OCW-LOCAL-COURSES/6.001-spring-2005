@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: _fXQ1SwKjDg
 ---
 
+
+
 **Topics covered:** Pattern Matching and Rule-based Substitution
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: -J_xL4IGhJA
 ---
 
+
+
 **Topics covered**: Overview and Introduction to Lisp
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

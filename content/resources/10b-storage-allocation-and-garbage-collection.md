@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: AbK4bZhUk48
 ---
 
+
+
 **Topics covered:** Storage Allocation and Garbage Collection
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: V_7mmwpgJHU
 ---
 
+
+
 **Topics covered:** Procedures and Processes; Substitution Model
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

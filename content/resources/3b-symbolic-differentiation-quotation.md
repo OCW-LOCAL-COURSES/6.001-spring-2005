@@ -24,6 +24,8 @@ video_metadata:
   youtube_id: bV87UzKMRtE
 ---
 
+
+
 **Topics covered:** Symbolic Differentiation; Quotation
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman
