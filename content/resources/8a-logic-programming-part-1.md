@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: rCqMiPk1BJE
 ---
 
-
-
 **Topics covered:** Logic Programming, Part 1
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: TqO6V3qR9Ws
 ---
 
-
-
 **Topics covered:** Compilation
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: Z8-qWEEwTCk
 ---
 
-
-
 **Topics covered:** Explicit-control Evaluator
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

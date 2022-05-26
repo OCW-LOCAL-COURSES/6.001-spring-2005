@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: DrFkf-T-6Co
 ---
 
-
-
 **Topics covered:** Compound Data
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

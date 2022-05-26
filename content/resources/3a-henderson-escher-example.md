@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: PEwZL3H2oKg
 ---
 
-
-
 **Topics covered:** Henderson Escher Example
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman

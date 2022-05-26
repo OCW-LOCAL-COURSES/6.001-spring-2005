@@ -24,8 +24,6 @@ video_metadata:
   youtube_id: dO1aqPBJCPg
 ---
 
-
-
 **Topics covered:** Assignment, State, and Side-effects
 
 **Instructors:** Hal Abelson and Gerald Jay Sussman
